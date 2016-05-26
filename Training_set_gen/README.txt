@@ -3,7 +3,7 @@
 
 Introduction
 ============
-This dataset is built for training a playing technique classifier of 4 classes (namely Strike, Roll, Flam, and Drag). Since this dataset is derived from the MDLib2.2 dataset, the re-distribution of the original audio files is restricted. Therefore, only the MATLAB scripts for generating the training dataset are included in this folder. The audio files of the complete training dataset will be available upon request. For more information about MDLib2.2 dataset, please refer to the following publication:
+This dataset is built for training a playing technique classifier of 4 classes (namely Strike, Roll, Flam, and Drag). Since this dataset is derived from the MDLib2.2 dataset, the re-distribution of the original audio files is restricted. Therefore, only the MATLAB scripts for generating the training dataset are included in this folder. For more information about MDLib2.2 dataset, please refer to the following publication:
 
 Matthew Prockup, Erik M. Schmidt, Jeffrey J. Scott, and Youngmoo E. Kim. "Toward Understanding Expressive Percussion Through Content Based Analysis." In ISMIR, pp. 143-148. 2013.
 

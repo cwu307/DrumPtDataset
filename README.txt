@@ -11,7 +11,7 @@ DrumPtDataset is a collection of datasets that are created for drum playing tech
 
 - Training_set_gen: this folder contains the MATLAB scripts for augmenting the existing MDLib2.2 with synthetic Flam and Drag audio samples. The audio files are not provided due to the copyright restrictions. 
 
-For more detailed information, please refer to the following publications. 
+For more detailed information, please refer to the following publication: 
 
 Chih-Wei Wu, Alexander Lerch, On Drum Playing Technique Detection in Polyphonic Mixtures, in Proceedings of the International Conference on Music Information Retrieval (ISMIR), New York, 2016.
 

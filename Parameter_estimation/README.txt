@@ -9,8 +9,6 @@ The videos for the online drum lessons can be found in the following links:
 http://vicfirth.com/20-flam/
 http://vicfirth.com/31-drag/
 
-The extracted audio files are not included in this folder but can be made available upon request. 
-
 Note that the annotated onset times have an approximately 512*3 samples difference if read by MATLAB audioread( ) function. This difference has be compensated in the MATLAB scripts.
 
 
